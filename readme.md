@@ -1,0 +1,1 @@
+This repository collects some simple and effective refactoring prompts for `moon-pilot`, helping `MoonBit` developers refactor their code.
